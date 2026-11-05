@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+desktop.ini
+
+# data and model weights (download separately)
+*.keras
+*.h5
+*.npy
+*.zip
+brain_tumor_dataset/
+Tatoeba.*
+coco_dataset_local/
+flickr30k/
